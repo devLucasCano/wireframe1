@@ -1,6 +1,6 @@
 # Wireframe - Projeto.
 
-<img src="img/wireframe.png" alt="Wireframe"> <br>
+<img src="./wireframe.png" alt="Wireframe"> <br>
 
 <hr>
 
