@@ -1,6 +1,6 @@
 # Wireframe - Projeto.
 
-<img src="img/wireframe.png" alt="FlexBlog"> <br>
+<img src="img/wireframe.png" alt="Wireframe"> <br>
 
 <hr>
 
@@ -21,7 +21,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Você pode acessar o site pelo link abaixo:
 
-- [FlexBlog](https://flexblog-lucas-css.netlify.app/) - O site está hospedado gratuitamente na Netlify
+- [Wireframe](https://wireframe-lucas.netlify.app/) - O site está hospedado gratuitamente na Netlify
 
 # 💼 Direitos
 
